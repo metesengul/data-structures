@@ -1,2 +1,2 @@
-# data-structures
+# Data Structures
 C++ implementations of data structures.
