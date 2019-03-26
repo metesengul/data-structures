@@ -6,3 +6,4 @@ Content:
 * Stack
 * Queue
 * Linked List
+* Sorting Algorithms
