@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
 #define MAXQUEUE 5
 
 struct queue {
