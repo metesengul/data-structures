@@ -1,5 +1,6 @@
 #include <stdio.h>
-  
+
+
 #define V 5 
 #define INF 10000 
 int parent[V]; 
