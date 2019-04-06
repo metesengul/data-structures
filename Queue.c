@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define MAXQUEUE 5
+#define MAXQUEUE 100
 
 struct queue {
     int head;
