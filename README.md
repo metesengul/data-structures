@@ -2,7 +2,7 @@
 C implementations of data structures.
 
 Content:
-* Binary Tree
+* Binary Trees
 * Stack
 * Queue
 * Linked List
